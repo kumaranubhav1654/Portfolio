@@ -23,9 +23,9 @@ const Resume = () => {
   const [isLoading, setIsLoading] = useState(false);
 
   const pdfUrl =
-    "https://github.com/kumaranubhav1654/kumaranubhav1654/raw/main/Kumar_Anubhav_Resume.pdf";
+    "https://github.com/kumaranubhav1654/kumaranubhav1654/raw/main/Kumar_Anubhav_Resume_2026.pdf";
   const docxUrl =
-    "https://github.com/kumaranubhav1654/vault/raw/ab379c6309000986d9e826ee2d4d3a1bab33c62f/Vishnu%20Chandra%20Resume%20(2).docx";
+    "";
 
   const getViewerUrl = (format: "pdf" | "docx") => {
     const url = format === "pdf" ? pdfUrl : docxUrl;
