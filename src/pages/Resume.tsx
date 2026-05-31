@@ -23,7 +23,7 @@ const Resume = () => {
   const [isLoading, setIsLoading] = useState(false);
 
   const pdfUrl =
-    "https://github.com/kumaranubhav1654/kumaranubhav1654/raw/main/Kumar_Anubhav_Resume_2026.pdf";
+    "https://github.com/kumaranubhav1654/kumaranubhav1654/raw/main/Kumar_Anubhav_FullStackDev.pdf";
   const docxUrl =
     "";
 
