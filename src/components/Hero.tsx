@@ -914,7 +914,7 @@ const Hero = () => {
     ease: [0.25, 0.4, 0.25, 1],
   }}
 >
-  I’m an experienced React Developer based in Bengaluru, India, with a strong focus on building high-performance, user-centric web applications. I specialize in cross-platform development and intuitive UI/UX design. I’ve contributed to impactful projects that have improved user engagement and delivered measurable business value. Always open to new opportunities and meaningful collaborations
+  I’m an experienced Full Stack Engineer with 5 years of experience building scalable web and mobile applications using React, Next.js, Node.js and TypeScript. Experienced in designing customer-facing features, API architectures and personalization systems in high-traffic production environments. Strong focus on performance optimization, accessibility and end-to-end ownership.
    — feel free to reach out!
 </motion.p>
               </div>
