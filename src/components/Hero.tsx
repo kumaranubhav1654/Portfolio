@@ -1334,7 +1334,7 @@ const Hero = () => {
               </motion.svg>
               <div className="md:max-w-[300px]">
                 <h3 className="text-base sm:text-lg md:text-xl font-bold">
-                  Software Development Engineer I
+                  FullStack Developer
                 </h3>
                 <p className="text-sm sm:text-base text-muted-foreground/80 mb-2">
                   Hy-vee Inc. Bengaluru, Karnataka
