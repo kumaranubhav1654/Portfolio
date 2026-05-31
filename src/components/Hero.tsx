@@ -1345,10 +1345,10 @@ const Hero = () => {
 <div className="text-muted-foreground/80 text-xs sm:text-sm space-y-1 leading-snug max-w-3xl">
   {[
     'Built auth service with JS, SQL, Redis & Kafka.',
-    'Integrated Riskified, Splunk & Red Media tools.',
-    'Boosted sales via swimlane recos (+$13K/week).',
-    'Led analytics across 4+ services.',
-    'Tracked purchases via Firebase & GTM (SHA-256).',
+    'Led development of Location-Based Commerce: Delivery & pickup flows, 20% fewer drop-offs.',
+    'Personalized Deals Engine: AI-driven recommendations, 15% higher CTR.',
+    'React Performance Optimization: Optimistic UI, 30% faster perceived experience.',
+    'Accessibility: WCAG compliance, ARIA support & keyboard navigation.',
     'Raised test coverage to 95% unit, 97% E2E.',
     'Migrated CMS from Umbraco to Sanity (99.5%).',
   ].map((item, idx) => (
